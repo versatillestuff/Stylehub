@@ -1,0 +1,90 @@
+1.Admin signup Days portion
+	<!-- <div class="input-box"> 
+            <p>Off Days</p>
+           </div>
+             <table border="0">
+              <tr>
+                <td width="50%"> <label for="Username">Sunday</label></td>
+                <td width="50%"><input 
+              type="checkbox" name="days[]" id="name" value="Sunday"
+        class="form-control" autocomplete="off"/>
+              </td>
+              <td>
+                  <label for="Username">Monday</label>
+                </td>
+                <td><input
+              type="checkbox"
+              name="days[]"
+              class="form-control"
+              id="name"
+              value="Monday"
+
+              autocomplete="off"
+            
+            /></td>
+              </tr>
+              <tr>
+                
+                <td>        <label for="Username">Tuesday</label></td>
+                <td><input
+              type="checkbox"
+              name="days[]"
+              class="form-control"
+              id="name"
+              value="Tuesday"
+              autocomplete="off"
+            
+            /></td>
+              <td><label for="Username">Wednesday</label></td>
+                                <td> <input
+              type="checkbox"
+             name="days[]"
+              class="form-control"
+              value="Wednesday"
+              id="name"
+              autocomplete="off"
+             
+            /></td>
+              </tr>
+              <tr>
+                <td><label for="Username">Thursday</label></td>
+                <td>
+                  <input
+              type="checkbox"
+             name="days[]"
+              id="name"
+              value="Thursday"
+              class="form-control"
+              autocomplete="off"
+             
+            />
+                </td>
+                  <td>
+                  <label for="Username">Friday</label>
+                </td>
+                <td><input
+              type="checkbox"
+             name="days[]"
+              id="name"
+              autocomplete="off"
+              value="Friday"
+              class="form-control"
+           
+            /></td>
+              </tr>
+              <tr>
+                
+                <td colspan="2"><label for="Username">Saturday</label></td>
+                <td colspan="2"> <input
+              type="checkbox"
+              class="form-control"
+               name="days[]"
+              id="name"
+              value="Saturday"
+              autocomplete="off"
+              /></td>
+              </tr>
+            </table >-->
+
+
+            #from line 257 till </main>booking.php
