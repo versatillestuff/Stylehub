@@ -1,8 +1,8 @@
 <?php 
 date_default_timezone_set('Asia/Kolkata'); #
-$server="localhost";
-$user="root";
-$password="";
+$server="127.0.0.2";
+$user="stylehub";
+$password="7h75Oj9uYc";
 $db="stylehub_style";
 $con=mysqli_connect($server,$user,$password,$db);
 	if($con)
